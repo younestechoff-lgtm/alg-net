@@ -1,0 +1,6 @@
+node_modules/
+logs/
+*.log
+alg-net-backup-*/
+alg-net-before-press-*/
+public/index.before-*.html
